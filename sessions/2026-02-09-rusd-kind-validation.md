@@ -5,6 +5,13 @@ repo: rusd
 goal: Validate rusd as etcd replacement in Kind K8s cluster
 type: session
 model: claude-opus-4-6
+input_tokens: 2750
+output_tokens: 98414
+cache_read_tokens: 147402727
+cache_creation_tokens: 5627095
+cost_usd: 132.45
+api_calls: 1513
+cost_note: "equivalent API cost (Max plan); session spanned Feb 9-10"
 ---
 
 # Session: rusd Kind Cluster Validation

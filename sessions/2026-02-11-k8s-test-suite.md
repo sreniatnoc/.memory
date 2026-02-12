@@ -5,6 +5,7 @@ repo: rusd
 goal: Build comprehensive K8s validation test suite
 type: session
 model: claude-opus-4-6
+cost_note: "shared session with multi-node-raft; see that memory for cost data"
 ---
 
 # Session: K8s Test Suite

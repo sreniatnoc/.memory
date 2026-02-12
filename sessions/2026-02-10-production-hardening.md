@@ -5,6 +5,13 @@ repo: rusd
 goal: Add TLS/mTLS, CI pipeline, and API compatibility layer
 type: session
 model: claude-opus-4-6
+input_tokens: 4861
+output_tokens: 7804
+cache_read_tokens: 8846660
+cache_creation_tokens: 299245
+cost_usd: 7.64
+api_calls: 130
+cost_note: "equivalent API cost (Max plan); follow-up session to main Feb 10 work"
 ---
 
 # Session: Production Hardening

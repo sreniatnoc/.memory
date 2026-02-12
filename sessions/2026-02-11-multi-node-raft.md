@@ -5,6 +5,13 @@ repo: rusd
 goal: Implement multi-node Raft consensus with real replication
 type: session
 model: claude-opus-4-6
+input_tokens: 28482
+output_tokens: 19043
+cache_read_tokens: 36971685
+cache_creation_tokens: 1639237
+cost_usd: 35.50
+api_calls: 398
+cost_note: "equivalent API cost (Max plan); session shared with k8s-test-suite and platform-scaffold"
 ---
 
 # Session: Multi-Node Raft Consensus
