@@ -4,6 +4,7 @@ org: sreniatnoc
 repo: rusd
 goal: Validate rusd as etcd replacement in Kind K8s cluster
 type: session
+model: claude-opus-4-6
 ---
 
 # Session: rusd Kind Cluster Validation

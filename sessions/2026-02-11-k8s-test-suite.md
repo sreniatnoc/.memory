@@ -4,6 +4,7 @@ org: sreniatnoc
 repo: rusd
 goal: Build comprehensive K8s validation test suite
 type: session
+model: claude-opus-4-6
 ---
 
 # Session: K8s Test Suite

@@ -4,6 +4,7 @@ org: sreniatnoc
 repo: rusd
 goal: Implement multi-node Raft consensus with real replication
 type: session
+model: claude-opus-4-6
 ---
 
 # Session: Multi-Node Raft Consensus

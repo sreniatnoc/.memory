@@ -4,6 +4,7 @@ org: sreniatnoc
 repo: rusd
 goal: Add TLS/mTLS, CI pipeline, and API compatibility layer
 type: session
+model: claude-opus-4-6
 ---
 
 # Session: Production Hardening
